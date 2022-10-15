@@ -22,3 +22,6 @@ Matplotlib as well as Jupyter Notebook and Pandas were used in this analysis to 
 ### Tumor Volume vs. Timepoint of Mouse b742
 ![](Images/line_chart.png)  
 
+### Correlation between mouse weight and average tumor volume (Capomulin)
+![](Images/line_regression.png)
+
